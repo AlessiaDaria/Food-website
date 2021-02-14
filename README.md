@@ -5,6 +5,7 @@
   <li>CSS Flexbox</i>
   <li>CSS Grid</i>
   <li>Box-model</li>
+  <li>Responsive</li>
 </ul>
 
 # Tehnology used
